@@ -2,7 +2,6 @@
 Running a website using default modules
 
 ```bash
-# Setup (none)
 # Run
 python3 web-basic.py
 ```
