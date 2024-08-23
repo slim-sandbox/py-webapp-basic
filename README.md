@@ -11,7 +11,7 @@ Running a website using a web framework
 
 ```bash
 # Setup
-pip3 install flask
+pip3 install -r requirements.txt
 # Run
 python3 web-flask.py
 ```
